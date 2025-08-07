@@ -133,6 +133,3 @@ else:
 - **scikit-image (`skimage.metrics.ssim`):** Advanced image comparison and quality assessment.
 
 ---
-
-
-If you want further details on any specific line, module, or concept, or want to see how to extend this script (e.g., for batch processing, GUI, or more advanced forgery detection), just let me know!
